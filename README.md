@@ -1,2 +1,3 @@
-# cenagro2026-capas-demo
-Capas cartográficas autorizadas para el prototipo CENAGRO 2028
+# Capas cartográficas CENAGRO 2028
+
+Repositorio para pruebas de alojamiento de capas PMTiles autorizadas.
